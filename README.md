@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rhianneg
-- 👀 I’m interested finding better ways to use data safely and using python to automate testing.
-- 🌱 I’m currently improving my Python and Statistics skills.
+- 👋 Hi, I’m @rhianneg a masters student at ESSEC and CentraleSupélec.
+- 👀 I’m interested in Data Analysis and Machine Learning.
+- 🌱 I’m currently improving my MLOps skills.
 
